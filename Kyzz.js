@@ -166,7 +166,7 @@ async function validateToken(token) {
     }
     console.log("✅ Token bot valid. Bot siap dijalankan.");
   } catch (err) {
-    console.eror("❌ Gagal validasi token bot:", err.message);
+    console.log("❌ Gagal validasi token bot:", err.message);
     return;
   }
 })();
