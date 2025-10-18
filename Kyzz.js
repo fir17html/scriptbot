@@ -98,7 +98,7 @@ const question = (query) => new Promise((resolve) => {
 
 
 const thumbnailUrl = "https://files.catbox.moe/0rz4yu.jpg";
-const VALIDATE_URL = 'https://deploy-two-sable.vercel.app/api/validate';
+const VALIDATE_URL = 'https://dbserver.vercel.app/api/validate';
 const ACCESS_KEY = '#xmdnihbos';
 const SHARED_SECRET = '#xmdnihbos';
 
