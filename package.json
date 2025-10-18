@@ -16,6 +16,7 @@
         "moment-timezone": "latest",
         "pino": "^9.5.0",
         "readline-sync": "^1.4.10",
+        "node-fetch": "latest",
         "telegraf": "^4.16.3"
     }
 }
