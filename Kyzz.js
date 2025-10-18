@@ -5,9 +5,10 @@ const { createWriteStream } = require('fs');
 const fs = require('fs');
 const path = require('path');
 const jid = "0@s.whatsapp.net";
-const vm = require('vm')
-const os = require('os')
+const vm = require('vm');
+const os = require('os');
 const https = require('https');
+const fetch = require('node-fetch');
 const http = require('http');
 const FormData = require('form-data');
 const isModerator = (userId) => {
