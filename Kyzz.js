@@ -1318,7 +1318,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
     await XmdDrainQ(sock, target);
     await sleep(1000);
     await XmdDrainQ(sock, target);
-    await sleep(1000)!
+    await sleep(1000);
     console.log(`[🦠] Succes Send Bugs To ${q} broo!!`);
   }
 
