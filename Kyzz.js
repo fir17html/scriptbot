@@ -1003,8 +1003,12 @@ I can send bug functions that cause WhatsApp to crash, Use me wisely
 ⬡ Type: ( Plugin )
 
 ─▢ @kyzzexX - Script Developer
-─▢ @dithtzy - Script Owner
-─▢ @frmnzz25 - Script Support
+─▢ @ditthtzy - Script Owner
+─▢ @Xatanicvxii - Script Support
+─▢ @RopiyyypXR - Best Script Support
+─▢ @ekikjembut - Script Support
+─▢ All Parnert My - Script Support
+─▢ All Owners My - Script Support
 </pre></blockquote>`;
 
     const keyboard = [
