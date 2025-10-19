@@ -479,18 +479,18 @@ bot.command("reqpair", async (ctx) => {
     const formattedCode = code?.match(/.{1,4}/g)?.join("-") || code;  
 
     const pairingMenu = `
-<blockquote><pre>空所 ┊ ＡＰＨＯＰＨＩＳ • ＣＲＡＳＨＥＲ
+<blockquote><pre>メッ\b|\b\bX\bM\bD\b\bI\bN\bV\bA\bS\bI\bO\bN
 ──────────────────────────────  
 
-Olaaa ${ctx.from.first_name}, I am a telegram bot created by @Urz1ee  
+Olaaa ${ctx.from.first_name}, I am a telegram bot created by @KyzzexX
 I can send bug functions that cause WhatsApp to crash, Use me wisely  
 
 スパムしないでください  
 
 ⌜ Aphophis ☇ Pairing° Menu ⌟  
 
-⬡ Author: @Urz1ee  
-⬡ Version: 5.0  
+⬡ Author: @KyzzexX
+⬡ Version: 3.0  
 ⬡ Prefix: /  
 ⬡ InterFace: Button Type  
 ⬡ Type: ( Plugin )  
@@ -1066,7 +1066,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Process
 ─▢ Type: Delay Message
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1106,7 +1106,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Sukses
 ─▢ Type: Delay Message
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1147,7 +1147,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Process
 ─▢ Type: Blank Infinity
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1183,7 +1183,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Sukses
 ─▢ Type: Blank Infinity
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1224,7 +1224,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Process
 ─▢ Type: Crash Ios System 
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1264,7 +1264,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Sukses
 ─▢ Type: Crash Ios System
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1305,7 +1305,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Process
 ─▢ Type: Draining Quota
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1343,7 +1343,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Sukses
 ─▢ Type: Draining Quota
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1384,7 +1384,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Process
 ─▢ Type: Crashing Application
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`,
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
@@ -1422,7 +1422,7 @@ Olaaa ${ctx.from.first_name}, I am a telegram bot created by @kyzzexX, I can sen
 ─▢ Status: Sukses
 ─▢ Type: Crashing Application
 </pre></blockquote>
-</pre></blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
+<pre><blockquote>© Archimedés D'frmnzz</pre></blockquote>`, {
     parse_mode: "HTML",
     reply_markup: {
       inline_keyboard: [[
